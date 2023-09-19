@@ -1,0 +1,15 @@
+.auth {
+    background-color: $second-bg-color;
+    min-height: 90vh;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    padding: 5vh 0;
+    &__link--img {
+        width: 100vw;
+        max-width: 300px;
+        max-height: 200px;
+    }
+}
+    
